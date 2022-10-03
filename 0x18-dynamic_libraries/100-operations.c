@@ -1,50 +1,50 @@
 /**
- * add - example function
- * @a: first number
- * @b: second number
- * Return: operation
+ * add - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
 int add(int a, int b)
 {
-	return (a + b);
+      return (a + b);
 }
 /**
- * sub - example function
- * @a: first number
- * @b: second number
- * Return: operation
+ * sub - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
 int sub(int a, int b)
 {
-	return (a - b);
+      return (a - b);
 }
 /**
- * mul - example function
- * @a: first number
- * @b: second number
- * Return: operation
+ * mul - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
 int mul(int a, int b)
 {
-	return (a * b);
+      return (a * b);
 }
 /**
- * div - example function
- * @a: first number
- * @b: second number
- * Return: operation
+ * div - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
 int div(int a, int b)
 {
-	return (a / b);
+      return (a / b);
 }
 /**
- * mod - example function
- * @a: first number
- * @b: second number
- * Return: operation
+ * mod - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
 int mod(int a, int b)
 {
-	return (a % b);
+      return (a % b);
 }
